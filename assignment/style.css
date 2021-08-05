@@ -1,9 +1,20 @@
 .info {
   color: yellow;
   background-color: green;
+  margin: auto;
+  width: 50%;
+  text-align: center;
 }
 
 h3 {
   color: yellow;
   background-color: green;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+.minivan {
+  display: block;
+  margin: auto;
 }
